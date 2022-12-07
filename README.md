@@ -7,7 +7,7 @@ Created 2022-12-07
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Calculates statistics on bike share usage.
 
 ### Files used
 Include the files used
