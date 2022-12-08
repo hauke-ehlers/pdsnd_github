@@ -53,6 +53,8 @@ def time_stats(df):
 
     # display the most common month
 
+    # New line here
+
 
     # display the most common day of week
 
